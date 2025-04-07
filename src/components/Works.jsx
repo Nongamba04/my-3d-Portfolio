@@ -1,5 +1,5 @@
 import React from "react";
-import Tilt from "react-tilt";
+import  Tilt  from 'react-tilt';
 import { motion } from "framer-motion";
 import Carousel from "../components/canvas/CarouselContainer"; // Adjust the import path
 
